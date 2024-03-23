@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "oxium:block/oxium_block" }
+  }
+}
